@@ -121,7 +121,7 @@ This Python module facilitates image generation using the DALL-E model from Azur
 - **Response Processing**: Extracts and prints the revised prompt and image URL from the response, providing feedback to the user.
 - **Dynamic Size Specification**: Allows the user to specify the desired image size, in this case, set to "1792x1024".
 
-```"Astronauts on moon, planted American flag"```
+```Prompt Generated using GPT-4 API for extracting words related to article: "Astronauts on moon, planted American flag"```
 
 ![image](https://github.com/user-attachments/assets/296add84-49a9-429e-bc2c-7f81d793c10a)
 
