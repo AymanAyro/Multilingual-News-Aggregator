@@ -1,0 +1,7 @@
+azure-ai-vision
+azure-ai-translation
+openai
+python-dotenv
+Pillow
+matplotlib
+requests
