@@ -75,7 +75,7 @@ Implements Optical Character Recognition (OCR) and text translation using Azure 
 
 ---
 
-## Azure OpenAI Chat Function
+## Azure OpenAI Chat Function (GPT-4)
 
 ### Overview
 This Python module integrates with the Azure OpenAI API to facilitate chat interactions. It loads configuration settings from an environment file, retrieves the system prompt from a text file, and calls the Azure OpenAI model to get a response based on user input.
@@ -113,7 +113,8 @@ Sein Co-Pilot, Col. Edwin E. Aldrin Jr., trat ihm auf dem Mond bei. Gemeinsam sa
 This Python module facilitates image generation using the DALL-E model from Azure OpenAI. It loads configuration settings from an environment file, prepares the request for image generation, and processes the response to return the generated image URL.
 
 ### Features
-- **Asynchronous Image Generation**: Leverages Azure OpenAI's DALL-E model to generate images based on user-defined prompts.
+- **Articl Summarization as Prompt**: GPT-4 is used to extract describing words as summary from the generated article.
+- **Asynchronous Image Generation**: Leverages Azure OpenAI's DALL-E model to generate images based on extracted words as prompt.
 - **Configuration Management**: Loads necessary configuration settings (API endpoint and keys) from an environment file for easy management and security.
 - **Prompt Handling**: Accepts a user-defined prompt for generating images, allowing for a wide range of creative possibilities.
 - **API Interaction**: Sends requests to the Azure DALL-E endpoint and handles responses, ensuring a smooth communication process.
