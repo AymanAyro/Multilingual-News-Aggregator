@@ -7,7 +7,8 @@ This project is an AI-powered pipeline that integrates OCR (Optical Character Re
 3. **Text Generation**: Use OpenAI's models to generate detailed articles based on the translated text.
 4. **Image Generation**: Generate custom images from the content using Azure's DALL-E 3 image generation.
 
-![Slide1](https://github.com/user-attachments/assets/869d5a4a-ac88-44cd-a526-1d7095916bdd)
+![Aggregator](https://github.com/user-attachments/assets/ba1b32f6-7447-43aa-aed8-56f637d1676d)
+
 
 ---
 
